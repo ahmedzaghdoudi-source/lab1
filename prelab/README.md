@@ -1,6 +1,7 @@
 # ECE 281 Lab 1 Prelab
 
 ## Prelab questions
+documentation statement: None
 
 ### Truth Table
 
